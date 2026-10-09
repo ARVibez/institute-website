@@ -49,6 +49,8 @@ Key activities:
 - 
 Ref 2: Homepage Hero Section
 This reference showcases the main homepage design and its call-to-action elements.
+![C-Soft Homepage]([screenshots/csoft-hero.png](https://github.com/ARVibez/institute-website/blob/main/home%20page.PNG))
+
 
 3. Course Information and Presentation
 The website was structured to help prospective students explore the institute's training programs and understand the learning opportunities available.
@@ -61,6 +63,8 @@ Key activities:
 - 
 Ref 3: Courses Section
 This reference represents the course information area of the website.
+
+![C-Soft Courses]([screenshots/csoft-courses.png](https://github.com/ARVibez/institute-website/blob/main/Course%20page.PNG))
 
 4. Features and Student Benefits
 A dedicated feature section was incorporated into the homepage to highlight the institute's key benefits.
@@ -78,6 +82,8 @@ Key activities:
 - 
 Ref 4: Institute Features Section
 This reference highlights the institute's training benefits and student support features.
+
+![C-Soft Features]([screenshots/csoft-features.png](https://github.com/ARVibez/institute-website/blob/main/Course%20Detailes.PNG))
 
 5. Responsive Design and Testing
 The final stage involved checking the website layout and navigation to ensure that visitors could access the content conveniently.
